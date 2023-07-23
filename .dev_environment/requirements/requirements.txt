@@ -1,0 +1,7 @@
+black
+fastparquet
+openpyxl
+pandas
+paramiko
+pyarrow
+mage-ai
