@@ -23,4 +23,5 @@ Remember to:
 - Mention any related issues or tickets
 - Include any special deployment considerations
 
-Reply with JUST the PR description, without any additional commentary, in Markdown so I am able to copy and paste directly into the PR text field.
+Reply with JUST the PR description, without any additional commentary.
+ENSURE the output is in Markdown in a code block so I am able to copy and paste directly into the PR text field.
