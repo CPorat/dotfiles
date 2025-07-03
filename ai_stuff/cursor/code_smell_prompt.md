@@ -3,9 +3,9 @@ Check this dbt model for code smells and best practices. Ensure:
 - CTE names are descriptive and meaningful.
 - No table aliases are used.
 - Use consistent SQL formatting.
-- Avoid SELECT *.
 - Use explicit column types where possible.
 - Add comments for complex logic.
 - No unused CTEs or columns.
 - Use singular table names.
-- Prefer incremental models for large tables.
+- Avoid commented out code.
+Minimize any actual logic changes unless explicitly asked - primarily handle formatting and standardization/efficiency.
